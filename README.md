@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Data Engineer and Golang
+
+![Tmilitino github stats](https://github-readme-stats.vercel.app/api?username=tmilitino&count_private=true)
 <!--
 **tmilitino/tmilitino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmilitino&layout=compact&count_private=true)
